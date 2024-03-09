@@ -1,2 +1,4 @@
 embeddings_service/
-env/
+.env
+*.pyc
+**/__pycache__/
